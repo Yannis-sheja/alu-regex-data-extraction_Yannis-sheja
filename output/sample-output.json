@@ -1,0 +1,246 @@
+{
+  "emails": [
+    {
+      "masked_email": "m***************@si.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": true
+    },
+    {
+      "masked_email": "c*****************@alueducation.com",
+      "is_alu_official": true,
+      "is_alu_alumni": false,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "f**********@hotmail.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "i**************@alumni.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": true,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "b*************@si.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": true
+    },
+    {
+      "masked_email": "r*************@alueducation.com",
+      "is_alu_official": true,
+      "is_alu_alumni": false,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "y**********@si.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": true
+    },
+    {
+      "masked_email": "c**************@gmail.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "y**********@si.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": true
+    },
+    {
+      "masked_email": "r*************@alueducation.com",
+      "is_alu_official": true,
+      "is_alu_alumni": false,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "d**********@alueducation.com",
+      "is_alu_official": true,
+      "is_alu_alumni": false,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "p*****************@si.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": true
+    },
+    {
+      "masked_email": "j*********************@alumni.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": true,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "f******************@alueducation.com",
+      "is_alu_official": true,
+      "is_alu_alumni": false,
+      "is_alu_si": false
+    },
+    {
+      "masked_email": "s**************@si.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": true
+    },
+    {
+      "masked_email": "m***************@si.alueducation.com",
+      "is_alu_official": false,
+      "is_alu_alumni": false,
+      "is_alu_si": true
+    },
+    {
+      "masked_email": "c*****************@alueducation.com",
+      "is_alu_official": true,
+      "is_alu_alumni": false,
+      "is_alu_si": false
+    }
+  ],
+  "credit_cards": [
+    {
+      "masked_card": "**** **** **** 9393"
+    },
+    {
+      "masked_card": "**** **** **** 7712"
+    }
+  ],
+  "times": [
+    {
+      "time": "06:58:03",
+      "format": "24-hour"
+    },
+    {
+      "time": "07:22:41",
+      "format": "24-hour"
+    },
+    {
+      "time": "08:03:15",
+      "format": "24-hour"
+    },
+    {
+      "time": "07:14:29",
+      "format": "24-hour"
+    },
+    {
+      "time": "09:40:02",
+      "format": "24-hour"
+    },
+    {
+      "time": "12:11:56",
+      "format": "24-hour"
+    },
+    {
+      "time": "06:47:33",
+      "format": "24-hour"
+    },
+    {
+      "time": "08:29:18",
+      "format": "24-hour"
+    },
+    {
+      "time": "13:52:47",
+      "format": "24-hour"
+    },
+    {
+      "time": "15:30:09",
+      "format": "24-hour"
+    },
+    {
+      "time": "16:02:53",
+      "format": "24-hour"
+    },
+    {
+      "time": "07:09:24",
+      "format": "24-hour"
+    },
+    {
+      "time": "10:44:37",
+      "format": "24-hour"
+    },
+    {
+      "time": "06:30",
+      "format": "24-hour"
+    },
+    {
+      "time": "21:00",
+      "format": "24-hour"
+    },
+    {
+      "time": "11:45 PM",
+      "format": "12-hour"
+    },
+    {
+      "time": "06:51:12",
+      "format": "24-hour"
+    },
+    {
+      "time": "09:18:05",
+      "format": "24-hour"
+    },
+    {
+      "time": "14:37:59",
+      "format": "24-hour"
+    },
+    {
+      "time": "08:22:16",
+      "format": "24-hour"
+    },
+    {
+      "time": "2:15 pm",
+      "format": "12-hour"
+    },
+    {
+      "time": "9:00pm",
+      "format": "12-hour"
+    },
+    {
+      "time": "09:05:44",
+      "format": "24-hour"
+    },
+    {
+      "time": "11:26:38",
+      "format": "24-hour"
+    },
+    {
+      "time": "00:15",
+      "format": "24-hour"
+    },
+    {
+      "time": "12:00 PM",
+      "format": "12-hour"
+    }
+  ],
+  "phone_numbers": [
+    "+250788214903",
+    "+250722871004",
+    "+250733882451",
+    "+250789004556",
+    "+250788213674",
+    "+250733009887",
+    "+250722456810",
+    "+250789002214",
+    "+250722456810",
+    "+250733009887",
+    "+250782330441",
+    "+250791220998",
+    "+250788900231",
+    "+250733118204",
+    "+250782556903",
+    "+250788214903",
+    "+250722871004"
+  ],
+  "security_summary": {
+    "rejected_emails": 0,
+    "rejected_credit_cards": 0,
+    "rejected_times": 2,
+    "rejected_phone_numbers": 12,
+    "note": "Rejected items were caught by the security checks (HTML/script injection, SQL-like text, malformed or obviously fake data) and were never trusted as valid."
+  }
+}

