@@ -1,51 +1,12 @@
 {
     "emails": {
-        "alu_official": [
-            "christella.umutoni@alueducation.com",
-            "rachel.umuhoza@alueducation.com",
-            "rachel.umuhoza@alueducation.com",
-            "divine.keza@alueducation.com",
-            "fabrice.uwizeyimana@alueducation.com",
-            "christella.umutoni@alueducation.com"
-        ],
-        "alu_alumni": [
-            "ines.iradukunda@alumni.alueducation.com",
-            "josiane.mukandayisenga@alumni.alueducation.com"
-        ],
-        "alu_si": [
-            "moses.byiringiro@si.alueducation.com",
-            "bosco.sibomana@si.alueducation.com",
-            "yves.ntwali@si.alueducation.com",
-            "yves.ntwali@si.alueducation.com",
-            "placide.ndayisenga@si.alueducation.com",
-            "solange.ishimwe@si.alueducation.com",
-            "moses.byiringiro@si.alueducation.com"
-        ],
-        "other": [
-            "fnkurunziza@hotmail.com",
-            "clarisse.mahoro@gmail.com"
-        ],
-        "masked": [
-            "m***@si.alueducation.com",
-            "c***@alueducation.com",
-            "f***@hotmail.com",
-            "i***@alumni.alueducation.com",
-            "b***@si.alueducation.com",
-            "r***@alueducation.com",
-            "y***@si.alueducation.com",
-            "c***@gmail.com",
-            "y***@si.alueducation.com",
-            "r***@alueducation.com",
-            "d***@alueducation.com",
-            "p***@si.alueducation.com",
-            "j***@alumni.alueducation.com",
-            "f***@alueducation.com",
-            "s***@si.alueducation.com",
-            "m***@si.alueducation.com",
-            "c***@alueducation.com"
-        ]
+        "official": [],
+        "alumni": [],
+        "si": [],
+        "others": [],
+        "hidden email": []
     },
-    "phones": [
+    "phone_numbers": [
         "+250788214903",
         "+250722871004",
         "+250733882451",
@@ -64,8 +25,8 @@
         "+250788214903",
         "+250722871004"
     ],
-    "times": {
-        "24_hour": [
+    "time": {
+        "24H_format": [
             "06:58:03",
             "07:22:41",
             "08:03:15",
@@ -81,28 +42,41 @@
             "10:44:37",
             "06:30",
             "21:00",
+            "11:45",
             "06:51:12",
             "09:18:05",
             "14:37:59",
             "08:22:16",
             "09:05:44",
             "11:26:38",
-            "00:15"
+            "00:15",
+            "12:00"
         ],
-        "12_hour": [
-            "11:45 PM",
-            "2:15 pm",
-            "9:00pm",
-            "12:00 PM"
-        ]
+        "12H_format": []
     },
-    "credit_cards": [
-        "**** **** **** 9393",
-        "**** **** **** 7712"
+    "credit_card": [
+        "**** **** **** 4903",
+        "**** **** **** 1004",
+        "**** **** **** 2451",
+        "**** **** **** 4556",
+        "**** **** **** 3674",
+        "**** **** **** 9887",
+        "**** **** **** 6810",
+        "**** **** **** 2214",
+        "**** **** **** 6810",
+        "**** **** **** 9887",
+        "**** **** **** 3345",
+        "**** **** **** 0441",
+        "**** **** **** 0998",
+        "**** **** **** 0231",
+        "**** **** **** 8204",
+        "**** **** **** 6903",
+        "**** **** **** 4903",
+        "**** **** **** 1004"
     ],
-    "validation": {
+    "security_check": {
         "Status": "Completed",
         "External_text_executed": false,
-        "suspicious_content_detected": true
+        "Threat_detected": true
     }
 }
