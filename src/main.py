@@ -39,5 +39,12 @@ phone_number = r"\+250\d{9}\b"  #This is the regex pattern for phone number
 
 phone_numbers = re.findall(phone_number, text)
 
-Pattern_24H = 
+Pattern_24H = r"\b(?:[01]\d|2[0-3]):[0-5]\d(?::[0-5]\d)?\b(?!s?[APap][Mm])" #This is for time in 24h
+# So, 00-23 hours, then 00-59 minutes and then seconds which is optional
+#Seconds are skipped whenever AM/PM follows
+Pattern_12H = r"\b(?:0?[1-9]1[0-2]):[0-5]\d\s?[APap][Mm]\b"         #This is for time 12h 
+#So, 1-12 hours, then 00-59 minutes and then the AM/PM
+
+time_in_24H = re.findall(Pattern_24H, text)
+time_in_12H = re.findall(Pattern_12H, text)
 
