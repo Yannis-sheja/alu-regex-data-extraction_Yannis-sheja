@@ -58,6 +58,11 @@ for number in credit_cards:
     digits = re.sub(r"[ -]","", number)     # This is to drop the seperators first so that the last -4 slice always lines up
     hidden_cards.append("**** **** **** " + digits[-4:])    #Here every number is hidden except the last four digits
 
+#####CHECKING FOR RISKS#####
+#Anything that is pulled out of the log file is just data, never something to run.
+#If the text contains what looks like a script or HTML Injection or a
+#SQL-style attack string, this will catch it instead of trusting it blindly.
+
 risks = r"<script|<img|drop\s+table|delete\s+from|javascript:"
 risk_flag = bool(re.search(risks, text, flags = 2))
 
