@@ -69,6 +69,17 @@ final_report = {
         "others": not_alu_emails,
         "hidden email": hidden_emails
     },
-    "phone_numbers": phone_numbers 
-}
+    "phone_numbers": phone_numbers,
+    "time": {
+        "24H_format": time_in_24H,
+        "12H_format": time_in_12H
+    },
+    "credit_card": hidden_cards,
+    "security_check": {
+        "Status": "Completed",
+        "External_text_executed": False,
+        "Threat_detected": risk_flag
+    }
+} 
+
 
