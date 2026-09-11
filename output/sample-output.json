@@ -101,8 +101,8 @@
         "**** **** **** 7712"
     ],
     "validation": {
-        "status": "completed",
-        "external_text_executed": false,
+        "Status": "Completed",
+        "External_text_executed": false,
         "suspicious_content_detected": true
     }
 }
