@@ -33,4 +33,11 @@ for entry in emails:
     else:
         not_alu_emails.append(entry)
         print("OTHER EMAILS=", entry)
-        
+
+phone_number = r"\+250\d{9}\b"  #This is the regex pattern for phone number
+#It mainly checks for Rwandan numbers only: +250 then any 9 digits
+
+phone_numbers = re.findall(phone_number, text)
+
+Pattern_24H = 
+
