@@ -82,4 +82,7 @@ final_report = {
     }
 } 
 
+with open("output/sample-output.json", "w") as output_stream:
+    json.dump(final_report, output_stream, indent=4)
+
 
